@@ -1,0 +1,11 @@
+# Brazilian Stock Portfolio Analysis
+
+This project involves analyzing a Brazilian stock using Python.
+
+## Features:
+- Stock portfolio analysis with buy price, current price, and total value.
+- Gain and loss calculation for each stock.
+- Visualizations using Plotly to display portfolio distribution and gains/losses.
+
+## How to Run:
+- You can run on Jupyter's notebook or Google Colab.
